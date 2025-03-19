@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-website",
+  "version": "1.0.0",
+  "description": "A basic e-commerce website project.",
+  "main": "src/js/index.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'"
+  },
+  "keywords": [
+    "ecommerce",
+    "website",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
